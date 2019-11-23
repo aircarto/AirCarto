@@ -13,7 +13,13 @@
 | Module chargeur | 5V type-c Micro USB 1A 18650 Lithium Battery Charging Board      |    0.30€ |
 | Socle pour batterie | Batteries Container With Hard Pin      |    1.00€ |
 
-Prix total des composants: 
+Prix total des composants (décembre 2019) sans les frais de livraisons: 38 €.
 
+Attention, pour obtenir le prix final avec assemblage et construction du boîtier, il faudra aussi prendre en compte:
+* la carte micro-SD
+* les câbles
+* les vis
+* les plaques de MDF/medium
+* la plaque de plexiglass
 
-
+Suivant les frais de livraisons des composants et les coûts de production du boîtier il est possible d'obtenir un capteur pour environs 60 €.
