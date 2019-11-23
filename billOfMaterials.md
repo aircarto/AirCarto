@@ -1,5 +1,7 @@
 # Liste des composants
 
+Liste des composants pour la construction d'un capteur AirCarto.
+
 | Nom        | Référence           | Prix  |
 | ------------- |:-------------:| -----:|
 | Microcontrôleur      | Arduino MEGA PRO 2560 | 5.00€ |
