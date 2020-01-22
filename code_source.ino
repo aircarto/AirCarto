@@ -3,21 +3,32 @@
   
   Ecran 1.8'' 128x160 rgb_tft
   5V!!!
-  SCL -> SCK(pin52)
-  SDA -> MOSI(pin 51)
+  SCL -> D52
+  SDA -> D51
+  RST -> D7
+  DC -> D9
+  CS -> D11
 
   SDS011 sur Serial 2 (5V)
-
+  TX -> D15
+  
   GPS sur SERIAL 3 (5V)
-
+  TX -> D17
+  
   BME280 connexion sur MEGA SDA>D20 et SCL>D21 alim 3v
 
-  CCS811 Connexion sur le MEGA SDA>D20, SCL>D21 et WAK GND
+  CCS811 
   Alim 3,3V nécessite un temps d'adaptation (24/48H)
+  SDA->D20
+  SCL->D21
+  WAK->GND
 
-  module carte SD 
-  MISO->D50, MOSI->D51, SCK->D52, CS->D53
-  en 5V
+  module carte SD (en 5V)
+  MISO->D50
+  MOSI->D51
+  SCK->D52
+  CS->D53
+  
 
  Paul Vuarambon
  11 novembre 2019
